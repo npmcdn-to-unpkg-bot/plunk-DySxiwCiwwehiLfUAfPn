@@ -1,0 +1,12 @@
+{
+  "name": "plunk-DySxiwCiwwehiLfUAfPn",
+  "version": "1.0.0",
+  "description": "A simple plunker demonstrating Angular2 usage: - Uses SystemJS + TypeScript to compile on the fly - Includes binding, directives, http, pipes, and DI usage.",
+  "main": "config.js",
+  "scripts": {
+    "start": "lite-server"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
